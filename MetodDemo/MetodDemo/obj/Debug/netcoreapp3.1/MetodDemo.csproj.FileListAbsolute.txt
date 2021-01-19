@@ -1,0 +1,13 @@
+C:\Users\GLLPC\source\repos\MetodDemo\MetodDemo\bin\Debug\netcoreapp3.1\MetodDemo.exe
+C:\Users\GLLPC\source\repos\MetodDemo\MetodDemo\bin\Debug\netcoreapp3.1\MetodDemo.deps.json
+C:\Users\GLLPC\source\repos\MetodDemo\MetodDemo\bin\Debug\netcoreapp3.1\MetodDemo.runtimeconfig.json
+C:\Users\GLLPC\source\repos\MetodDemo\MetodDemo\bin\Debug\netcoreapp3.1\MetodDemo.runtimeconfig.dev.json
+C:\Users\GLLPC\source\repos\MetodDemo\MetodDemo\bin\Debug\netcoreapp3.1\MetodDemo.dll
+C:\Users\GLLPC\source\repos\MetodDemo\MetodDemo\bin\Debug\netcoreapp3.1\MetodDemo.pdb
+C:\Users\GLLPC\source\repos\MetodDemo\MetodDemo\obj\Debug\netcoreapp3.1\MetodDemo.csprojAssemblyReference.cache
+C:\Users\GLLPC\source\repos\MetodDemo\MetodDemo\obj\Debug\netcoreapp3.1\MetodDemo.AssemblyInfoInputs.cache
+C:\Users\GLLPC\source\repos\MetodDemo\MetodDemo\obj\Debug\netcoreapp3.1\MetodDemo.AssemblyInfo.cs
+C:\Users\GLLPC\source\repos\MetodDemo\MetodDemo\obj\Debug\netcoreapp3.1\MetodDemo.csproj.CoreCompileInputs.cache
+C:\Users\GLLPC\source\repos\MetodDemo\MetodDemo\obj\Debug\netcoreapp3.1\MetodDemo.dll
+C:\Users\GLLPC\source\repos\MetodDemo\MetodDemo\obj\Debug\netcoreapp3.1\MetodDemo.pdb
+C:\Users\GLLPC\source\repos\MetodDemo\MetodDemo\obj\Debug\netcoreapp3.1\MetodDemo.genruntimeconfig.cache
